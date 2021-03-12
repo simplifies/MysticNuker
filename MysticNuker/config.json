@@ -1,0 +1,12 @@
+{
+    "token": "Your Token Here",
+
+    "webhook_name": "Webhook Username Here",
+    "webhook_content": "Message to Send Here @everyone",
+    "spam_per_webhook": 10,
+
+    "chan_nuke_amount": 250,
+    "chan_nuke_name": "channel name here", 
+
+    "global_thread_count": 50
+}
